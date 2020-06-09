@@ -1,0 +1,37 @@
+@media (max-width: 600px) {
+
+    .main_section {
+        padding: 4%;
+    }
+
+    .products {
+        display: inherit;
+        height: auto;
+        padding: 10%;
+    }
+
+    .product {
+        margin-top: auto;
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .reasons {
+        display: inherit;
+        font-size: 16px;
+    }
+
+    .opinions {
+        display: inherit;
+    }
+
+    .opinion {
+        width: inherit;
+        height: auto;
+        margin: 20px 0;
+    }
+
+    .opinion img {
+        width: 100%;
+    }
+}
